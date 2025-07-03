@@ -53,9 +53,3 @@ The project went through several iterations. Each version added better input han
 - Thinking like a user and handling real-world mistakes  
 - Writing cleaner, more modular code over time
 
-Clone the repo:
-```bash
-git clone https://github.com/amirjavad2/calculator-project.git
-cd calculator-project
-python calculator_v2.1.py
-
